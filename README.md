@@ -12,6 +12,8 @@ day = True
 <img src="screenshot/main.py-2022-05-17-011947.jpg"></img>
 </p>
 
+> Wanted to draw some leaves but seems like I am running out of my 99 lines </p>
+> Also would like to optimize the code when I got more time in hand
 
 ### More screenshots
 <img src="screenshot/main.py-2022-05-17-011350.jpg" width="45%"></img>
