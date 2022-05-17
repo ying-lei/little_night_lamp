@@ -1,4 +1,4 @@
-# <a name="title">Little Night Lamp- Taichi Voxel Challenge</a>
+# <a name="title">Little Night Lamp - Taichi Voxel Challenge</a>
 
 ### Submission image
 
